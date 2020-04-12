@@ -1,1 +1,8 @@
+/diary/settings.py
+/diary/__pycache__/
+/diaryapp/migrations/
+/diaryapp/__pycache__/
+/env/
+/media/
+/static/
 db.sqlite3
